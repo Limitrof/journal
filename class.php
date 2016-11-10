@@ -927,6 +927,6 @@ $(document).ready(function(){
 }
 // articleClass //
 //////////////////
-
+//what is it
 ?>
 
